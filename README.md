@@ -1,5 +1,11 @@
 # Cotzero_Charging_Infrastructure
-An android app which enables a user to charge his/her Electric Vehicle without the need of a human assitance. The app helps user to locate the best nearby charging point and charge his vehicle by simply scanning the QR code.
+An android app which enables a user to charge his/her Electric Vehicle without the need of a human assitance. The app helps user to locate the best nearby charging point and charge his vehicle by simply scanning the QR code. (I cannot upload the codes as per the NDA agreement.)
+
+Backend- Spring Boot.
+Database- MySQL
+HTTP Requests- Retrofit.
+Architecture used- Model-View-ViewModel.
+Security- Spring Security (OAuth) using JWT
 
 Step 1: Login to your Cotzero User Account, or Register if you are not already registered.
 
